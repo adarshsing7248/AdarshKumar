@@ -1,4 +1,4 @@
-
+![logo](banner.png)
 <h1 align="center">Hey there, I'm Adarsh Kumar 👋</h1>
 
 <h3 align="center">💻 Computer Science Student | Frontend Developer | Aspiring Full-Stack Developer</h3>
@@ -82,6 +82,7 @@
 
 
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -90,6 +91,9 @@
   </a>
   <a href="https://github.com/adarshsing7248">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarshkumar7248">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 
@@ -101,3 +105,4 @@
   <b>⭐ Thanks for visiting my profile!</b><br/>
   <i>Keep learning. Keep building. Keep growing. 🚀</i>
 </p>
+
